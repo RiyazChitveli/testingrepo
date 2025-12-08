@@ -1,0 +1,1 @@
+print("This is my first Git & GitHub Learning Session")
